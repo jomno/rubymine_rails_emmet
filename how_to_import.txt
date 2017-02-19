@@ -1,0 +1,13 @@
+import 방법
+
+1. 루비마인 실행
+2. File-import setting-rails_emmet.jar 경로 추가하고 OK
+
+사용방법
+
+일반 emmet과 같이
+'<' 입력 후 tap 하면 <% %> 이 생성 됨
+'=' 입력 후 tap 하면 <%= %> 이 생성 됨
+gen_detail.png 참고
+
+만든 이: 노종원
